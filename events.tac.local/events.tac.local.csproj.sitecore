@@ -1,0 +1,33 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="www.events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{B66D0D0A-D586-4146-A17C-58C2719B6D8A}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{B66D0D0A-D586-4146-A17C-58C2719B6D8A}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\ContentPage.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{B05C97D3-7068-474D-A6DE-D6545D0001CF}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/ContentPage.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{B05C97D3-7068-474D-A6DE-D6545D0001CF}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\EventDetails.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E00B985F-1744-484C-8007-E62502F1EA76}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/EventDetails.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E00B985F-1744-484C-8007-E62502F1EA76}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\EventList.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E7C3A6E6-0138-4E54-8C21-AA32169E8A0F}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/EventList.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E7C3A6E6-0138-4E54-8C21-AA32169E8A0F}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\EventSection.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="/Views/TAC/Events/Layouts/EventSection.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5C5E8BAA-8467-4C6F-A4B6-A8A1845C3472}</Item>
+  </File>
+</Project>
